@@ -1,0 +1,4 @@
+-----BEGIN CERTIFICATE-----
+bWluLWp3dC1zcHJpbmctYm9vdC10dXRvcmlhbC10ZXN0LWhvdy10by1iYXNlNjQt
+ZW5jb2RlLWluLXdpbmRvd3M=
+-----END CERTIFICATE-----
